@@ -1,0 +1,25 @@
+.todo {
+   display: flex;
+   justify-content: space-between;
+   margin: 0 auto;
+   border: solid 3px silver;
+   width: 30vw;
+   height: 7vh;
+}
+.todo:nth-child(even) {
+   background: rgb(94, 44, 25);
+}
+.inp {
+   margin-top: 4.5%;
+}
+.text {
+   color: silver;
+   margin-top: 1%;
+}
+.btn {
+   height: 3vh;
+   margin-top: 3%;
+}
+.line {
+   text-decoration: line-through;
+}

@@ -1,0 +1,29 @@
+.input {
+   margin: 0 auto;
+   border: solid 3px silver;
+   width: 30vw;
+   height: 7vh;
+}
+.in {
+   width: 20vw;
+   height: 4.1vh;
+   margin-top: 2%;
+   margin-left: 4%;
+}
+.submit {
+   width: 7vw;
+   height: 5vh;
+}
+.addBox {
+   margin: 0 auto;
+   border: solid 3px silver;
+   width: 30vw;
+   height: 7vh;
+}
+.add {
+   width: 80%;
+   height: 60%;
+   margin-left: 9%;
+   margin-top: 2.5%;
+   background-color: rgb(24, 59, 90);
+}
